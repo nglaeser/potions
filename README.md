@@ -5,6 +5,9 @@
 A list widgets I've created is below. If you want to embed a widget as-is, use the listed URL. If you'd like to make modifications, use the source code provided and create a new potion using [this link](https://potions.potions.dev/widgets/), then embed the new potion's URL. Of course, you can also make a completely new widget from scratch.
 
 ## Widgets
-- [Randomized work quotes](https://potions.potions.dev/widgets/qgB2ttK7gmd8YxnPEUYkaU2ss3p2/0evsxjjo0yw9ehbcq2y80shg0)
-    - Source: `workQuotes.html`
-    - Link: `https://potions.potions.dev/widgets/qgB2ttK7gmd8YxnPEUYkaU2ss3p2/0evsxjjo0yw9ehbcq2y80shg0`
+- Randomized work quotes [[demo](https://potions.potions.dev/widgets/qgB2ttK7gmd8YxnPEUYkaU2ss3p2/0evsxjjo0yw9ehbcq2y80shg0)]
+    - Source: [workQuotes.html](workQuotes.html)
+    - Link: 
+    ```
+    https://potions.potions.dev/widgets/qgB2ttK7gmd8YxnPEUYkaU2ss3p2/0evsxjjo0yw9ehbcq2y80shg0
+    ```
